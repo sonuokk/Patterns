@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-////Diamond shape
+////Diamond shape pattern with two different logics 1 logic ic commented 1st uncomment that to run
 public class Pattern17 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

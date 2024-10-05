@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//left pyramid of numbers but dont repeat the number
 public class Pattern9 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//left pyramid of stars
 public class Pattern3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

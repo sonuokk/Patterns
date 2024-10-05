@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//left pyramid of 1 01 101 0101 etc.
 public class Pattern11 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//left pyramid of numbers
 public class Pattern7 {
 
     public static void main(String[] args) {

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//left pyramid of number without repeating them but opposite pyramid
 public class Pattern10 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

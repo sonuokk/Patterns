@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//pyramid of palindrome numbers
 public class Pattern16 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
